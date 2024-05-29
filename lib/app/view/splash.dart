@@ -9,7 +9,7 @@ class SplashPage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.end,
           children: [
             Image(
-              image: AssetImage("assets/images/tarea1/rock.png"),
+              image: AssetImage("assets/images/tarea2/rock.png"),
               height: 200,
               width: 200,
             ),
@@ -46,7 +46,7 @@ class SplashPage extends StatelessWidget {
               children: [
                 Image(
                   image: AssetImage(
-                    "assets/images/tarea1/shape.png",
+                    "assets/images/tarea2/shape.png",
                   ),
                   height: 129,
                   width: 141,
