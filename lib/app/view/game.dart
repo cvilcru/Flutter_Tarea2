@@ -10,7 +10,7 @@ class GamePage extends StatelessWidget {
         children: [
           Container(
             child: Text(
-              "Rock-paper-scissor",
+              "Rock-paper-scissos",
               style: TextStyle(
                   fontFamily: "Poppins",
                   fontSize: 25,
